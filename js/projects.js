@@ -1,4 +1,4 @@
-const text="I am a Full Stack Developer and an Open Source Enthusiast ! ";
+const text="MERN Developer | AI Learner | Data-Driven and Team-Oriented";
 
 let index=0;
 

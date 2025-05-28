@@ -214,7 +214,7 @@
   /* NAVBAR STYLING ENDS HERE */
   
   header {
-    background-image: url("../img/bg.jpg");
+    background-image: url("../img/bgg.png");
     background-size: cover;
     height: 100vh;
     display: flex;
@@ -224,12 +224,12 @@
   }
   
   header h2 {
-    color: white;
+    color: black;
     font-family: "Source Sans Pro", sans-serif;
-    font-size: 50px;
+    font-size: 40px;
   }
   .underText {
-    color: white;
+    color: black;
     margin-top: 38px;
     font-size: 16px;
     padding: 10px;
@@ -344,8 +344,8 @@
       justify-content: center;
       align-items: center;
       flex-direction: row;
-      background-color: #132945;
-      color: white;
+      background-color: #adabac;
+      color: black;
       padding: 2rem;
   
   }
@@ -361,13 +361,13 @@
       bottom: 0;
       width: 0%;
       height: 3%;
-      background-color: white;
+      background-color: black;
       animation: h2-bottom 1s infinite ease-in-out alternate;
   
   }
   
   .clickme {
-      color: #031D44;
+      color: #adabac;
       background-color: #EEEEEE;
       padding: 2px 20px;
       text-decoration:none;
@@ -503,13 +503,13 @@
     bottom: 0;
     width: 0%;
     height: 3%;
-    background-color: #132945;
+    background-color: #adabac;
     animation: h2-bottom 1s infinite ease-in-out alternate;
   }
   .education-box {
     padding: 50px;
     border-radius: 8px;
-    box-shadow: 0px 2px 10px 2px #132945;
+    box-shadow: 0px 2px 10px 2px #adabac;
     margin: 30px;
     display: flex;
     justify-content: center;
@@ -529,8 +529,8 @@
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    background-color: #132945;
-    color: white;
+    background-color: #adabac;
+    color: black;
     padding: 60px;
   }
   .skills h2 {
@@ -544,7 +544,7 @@
     bottom: 0;
     width: 0%;
     height: 3%;
-    background-color: white;
+    background-color: black;
     animation: h2-bottom 1s infinite ease-in-out alternate;
   }
   .skills-div {
@@ -566,7 +566,7 @@
     flex-direction: column;
   }
   .skill {
-    color: white;
+    color: black;
   }
   
   /*Mobile Screen*/
@@ -644,7 +644,7 @@
           flex-direction: column;
           background-color: white;
           font-family: 'Source Sans Pro', sans-serif;
-          color: #132945;
+          color:#adabac;
       }
       
       .contactme h2 {
